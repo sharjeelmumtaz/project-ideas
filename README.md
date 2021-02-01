@@ -240,3 +240,13 @@ Project Contact: Brooke Landry
 On a campus as large and vast as Vanderbilt, it can feel isolating sometimes, especially among new students or those that are still getting adjusted to the social scene at Vanderbilt. In turn this creates a barrier for students to make friends and create camaraderie.
 
 VandyMeetsBagel will be a mobile application that will allow students to grab breakfast, lunch, or dinner at a place on campus with someone close to them in distance, that is also using the application. The application would be great for students that might’ve not had plans to grab food with someone such as a first year student who is new on campus, and allow them to connect to a student that also wants to grab food on a specific part of campus within a close radius. This application would allow our students to form friendships and build connections among our students in order to create a more perfect community.
+
+## Project Idea: Face-detection using Open CV
+
+My idea for a project is building some sort of a face detection mechanism using OpenCV. This was inspired by the numerous YouTube videos that talked
+about the functionalities that come with the OpenCV library. I was very interesed to explore this area a bit more and possibly build some
+sort of a face detection mechanism using it.
+
+I do not currently have a language of my choice, but I would prefer it to be in C++ or Python. Moreover, perhaps if this project is too 
+simple, then other functionalities could be added to it. For example: a face detection mechanism that not only detects faces in photographs,
+but also vidoes. 
